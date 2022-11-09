@@ -1,2 +1,2 @@
 # BackEnd-peactice
-unfinished backend tutorial, just wanted o store the code here
+unfinished backend tutorial, just wanted to store the code here
